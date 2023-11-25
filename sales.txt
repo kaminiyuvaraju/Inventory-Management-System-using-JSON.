@@ -1,0 +1,2 @@
+1,Yuva,Kaminiyuvaraju@gmail.com,6305763683,1002,Bar-One,10,20,200,Fri Sep 29 21:47:44 20231,Lahari,abc@gmail.com,0987654,1003,Candy,0,2,0,Fri Sep 29 22:08:14 2023
+1,kamini,abc@gmail.com,987654334567,1003,Candy,50,2,100,Fri Sep 29 22:17:33 2023
